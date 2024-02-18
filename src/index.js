@@ -28,6 +28,6 @@ const app = express();
 
     } catch (err) {
         console.log("ERROR : ", err);
-        throw err;  // to stop application here
+        throw err;  
     }
 })();

@@ -28,4 +28,5 @@ app.all("*",(_req,res) => {
 export default app;
 
 //          http://localhost:4000/api/auth/login
+//          http://localhost:4000/api/auth/signup
 //          http://localhost:4000/api/auth/logout
